@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=740)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Beast-52/Beast-52/blob/main/Profile.png?raw=true)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 <h3 align="center">A passionate FullStack Developer from Pakistan</h3>
 
