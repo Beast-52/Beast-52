@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://img.freepik.com/premium-photo/desktop-source-code-wallpaper-by-computer-language-with-coding-programming_33771-595.jpg?w=740))]
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate FullStack Developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.5c8f08b5fe55e12baae6fc54e46c343a?rik=XE%2f%2f1dFJVb1jQQ&pid=ImgRaw&r=0"/>
 
