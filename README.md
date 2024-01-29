@@ -1,5 +1,5 @@
 <style>
-  .img img{
+  .markdown-body img{
     background:white;
   }
 </style>
