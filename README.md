@@ -36,9 +36,9 @@
 ---
 
 ### 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=KayKhing&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=KayKhing&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KayKhing&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Beast-52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Beast-52&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beast-52&theme=dark&hide_border=false&layout=compact)
 
 ---
 
