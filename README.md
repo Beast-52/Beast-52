@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Beast-52&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Beast-52&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Beast-52&theme=midnight-purple)](https://github-readme-streak-stats-eight.vercel.app)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beast-52&theme=dark&hide_border=true&layout=compact)
 
 ---
