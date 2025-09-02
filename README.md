@@ -36,7 +36,7 @@
 
 ### 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Beast-52&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beast-52)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Beast-52&theme=midnight-purple)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beast-52&theme=dark&hide_border=true&layout=compact)
 
 ---
