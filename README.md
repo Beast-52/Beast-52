@@ -42,11 +42,11 @@ Improving CaptionShroud's caption styles, render reliability, background job arc
 
 **Open to** SaaS · product engineering · AI apps · freelance work
 
-📩 [ara62580@gmail.com](mailto:ara62580@gmail.com) · 🌐 [mumer.me](https://mumer.me/) · 📷 [@cybershroud](https://www.instagram.com/cybershroud/)
+📩 [ara62580@gmail.com](mailto:ara62580@gmail.com) · 🌐 [mumer.me](https://mumer.me/) · 📷 [@captionshroud](https://www.instagram.com/captionshroud/)
 
 <br />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Beast-52&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+
 <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app?user=Beast-52&theme=tokyonight&hide_border=true" />
 
 *Still building. Still shipping.*
