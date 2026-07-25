@@ -14,7 +14,7 @@ AI-powered SaaS, video processing, and scalable web systems.
 
 ---
 
-I build complete SaaS products — from the interface down to the infrastructure. Currently focused on **CaptionShroud**, an AI captioning platform for video creators (**1,600+ signups**).
+I build complete SaaS products — from the interface down to the infrastructure. Currently focused on **CaptionShroud**, an AI captioning platform for video creators (**4500+ signups**).
 
 I own the full stack: React frontends, Node/Express APIs, MongoDB, FFmpeg video rendering, Gemini transcription, and AWS deployments with async job queues.
 
