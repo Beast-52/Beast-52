@@ -21,7 +21,7 @@ I own the full stack: React frontends, Node/Express APIs, MongoDB, FFmpeg video 
 ### CaptionShroud — how it works
 
 ```text
-Upload → FFmpeg audio extraction → Gemini transcription
+Upload → FFmpeg audio extraction → word by word transcription
        → Caption editor → Animated rendering → Export
 ```
 
