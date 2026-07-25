@@ -40,7 +40,7 @@ Improving CaptionShroud's caption styles, render reliability, background job arc
 
 <div align="center">
 
-**Open to** SaaS · product engineering · AI apps · freelance work
+**Open to** SaaS · product engineering · AI apps 
 
 📩 [ara62580@gmail.com](mailto:ara62580@gmail.com) · 🌐 [captionshroud - Pakitstan #1 Captioning Tool](https://captionshroud.com/) · 📷 [@captionshroud](https://www.instagram.com/captionshroud/)
 
